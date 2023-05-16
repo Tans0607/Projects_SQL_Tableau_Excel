@@ -1,4 +1,4 @@
-# Data --  SQL
+# Data --  SQL --- Excel--Tableau
 Retail Sales Data Analysis [Customer.csv](https://github.com/Tans0607/Data/files/11482829/Customer.csv)
 [prod_cat_info.csv](https://github.com/Tans0607/Data/files/11482830/prod_cat_info.csv)
 [Retail data analysis.pdf](https://github.com/Tans0607/Data/files/11482831/Retail.data.analysis.pdf)
@@ -9,3 +9,9 @@ Mobile Manufacturing Data Analysis
 [Excel.xls](https://github.com/Tans0607/Data/files/11482843/Excel.xls)
 
 #Excel 
+
+#Tableau
+[Tableau - Laptop sales analysis.zip](https://github.com/Tans0607/Data/files/11482929/Tableau.-.Laptop.sales.analysis.zip)
+[Tableau - Sport equipment sales analysis.zip](https://github.com/Tans0607/Data/files/11482933/Tableau.-.Sport.equipment.sales.analysis.zip)
+
+
